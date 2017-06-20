@@ -1,0 +1,244 @@
+body{
+	background-color: white;
+	font-family: "Dosis";
+}
+
+#footer{
+	background-color: #3bdbcc;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	color: white;
+}
+
+#footer a{
+	color: #fda987;
+}
+
+#footer a:hover{
+	color: #d8a998;
+	text-decoration: none;
+}
+
+.social a{
+	font-size: 30px;
+}
+
+#wrapper{
+  background-image: url("../images/background/ban bleu new-01.png");
+	height: 620px;
+	background-size: cover;
+	text-align: center;
+  padding-top: 5px;
+}
+
+#wrapper h1{
+  font-family: "Pacifico";
+  font-size: 45px;
+  font-weight: 400;
+  color: white;
+  letter-spacing: 2px;
+}
+
+#wrapper h2{
+font-size: 44px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  margin-top: -30px;
+  letter-spacing: 0.5px;
+}
+
+#wrapper h3{
+	font-size: 20px;
+	color: white;
+	font-weight: 500;
+  letter-spacing: 0.5px;
+  position: relative;
+}
+
+
+.excuse{
+	font-size: 25px;
+	margin-top: -20px;
+	margin-bottom: 3em;
+	color: #fda987;
+	font-weight: 700;
+}
+
+.space-feature{
+	padding-top: 7em;
+	padding-bottom: 7em;
+	text-align: center;
+}
+
+.feature img{
+	margin-bottom: 2em;
+}
+
+#why{
+	background-color: #8ED19E;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	text-align: center;
+	border:none;
+}
+
+#why h4{
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	font-weight: 300;
+}
+
+.royal{
+	font-size: 18px;
+	text-align: center;
+}
+
+.button-bas{
+	text-align: center;
+	margin-top: 35px;
+}
+
+
+.button-bas a{
+	font-size: 22px;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.button-bas a:hover{
+	background-color: #8ED19E;
+}
+
+.btn-primary{
+		font-size: 22px;
+}
+
+.btn-primary:hover{
+	background-color: #efdec2;
+	border: none;
+}
+
+.offre{
+	padding-top: 150px;
+}
+
+#explain{
+	padding-top: 3em;
+	padding-bottom: 3em;
+	text-align: center;
+	background-color: #f9f9f9;
+}
+
+.maintenant{
+	font-size: 35px;
+	color: white;
+	font-weight: bold;
+}
+
+#reason{
+	background-color: #8ED19E;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	text-align: center;
+	border: none;
+	color: white;
+	font-size: 25px;
+}
+
+#reason h5{
+	font-size: 35px;
+	color: white;
+	font-weight: bold;
+}
+
+.reason1{
+	padding-top: 2em;
+}
+
+.text-right{
+	color: white;
+	font-size: 15px;
+	padding-top: 2em;
+}
+
+.contact{
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.excuse1{
+	font-size: 20px;
+	font-weight: normal;
+	color: black;
+}
+
+.essai{
+	font-weight: 800;
+	font-size: 17px;
+	color: #3bdbcc;
+}
+
+.essai1{
+	font-size: 17px;
+	font-weight: 500;
+}
+
+.cercle{
+	margin-right: auto;
+	margin-left: auto;
+	height: 31px;
+	width: 31px;
+	border:2px solid black;
+	border-radius: 100%;
+	font-weight: bold;
+	line-height: 25px;
+	margin: 20px auto 20px auto;
+}
+
+.form-group{
+  padding-top: 30px;
+}
+
+#email{
+  box-sizing: border-box;
+  min-height: 65px;
+  border:none;
+  border-radius: 2px;
+  padding-right: 200px;
+  padding-left: 10px;
+}
+
+.field--label{
+  top: 22px;
+  position: absolute;
+}
+
+.btn-submit{
+  margin-top: 30px;
+  border-radius: 5px;
+  padding: 13px 40px 10px;
+  border:0;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 1px;
+  line-height: 20px;
+  background-color: #e34f30;
+  color: white;
+  position: absolute;
+}
+
+.btn-submit:hover{
+  background-color: #e07b66;
+  color: white;
+}
+
+.button-submit{
+  margin-right: 200px;
+}
+
+.btn1{
+  margin-top:30px;
+  padding-bottom: 50px;
+}
+
